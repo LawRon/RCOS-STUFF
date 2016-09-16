@@ -11,4 +11,3 @@ Absolutely. Exposure is absolutely essential to any open source project, and its
 The MIT License distinguishes itself by being one of the more open of the policies. In summary, it states that developers can do waht they want with it (the project), as long as they list the original developer as soucre.
 
 The best License "for the greater good", would have to be the GPL-3 license as it provides the most freedom with whatever future developers, users, and companies want to do; save for the fact they need to put forth any changes they have made to the software. By doing so they allow interested developers to look into the code and potentially contribute to the project, benefiting it. Allow users the freedom to revert to whatever build of the project that they desire, which is important if a "current" release is bugged or such. And yet it still allows the company to charge for the project. This license benefits all.
-
