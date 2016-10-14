@@ -7,3 +7,10 @@ Lab Report 6:
 |13: MxM           |  3                  |  3766          |  9/27/2016     |  10/8/2016       |  4                    |
 |14: Observatory   |  32                 |  15020         |  8/28/2016     |  10/9/2016       |  19                   |
 |15: ok-college    |  2                  |  9971          |  9/12/2016     |  10/9/2016       |  4                    |
+
+Photos for Part3:
+![Lyrebird](vlcsnap-2016-10-14-13h25m25s549.png)
+![MxM](vlcsnap-2016-10-14-13h27m05s367.png)
+![Observatory3](vlcsnap-2016-10-14-13h27m28s560.png)
+![okCollege](vlcsnap-2016-10-14-13h27m40s707.png)
+![mini zero](vlcsnap-2016-10-14-13h27m50s013.png)
